@@ -1,0 +1,78 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+  
+body {
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+ font-size: 32px;
+ font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+ font-size: 20px;
+}
+
+h3 {
+ font-size: 16px;
+}
+
+h4 {
+ font-size: 14px;
+} 
+
+h5,h6 {
+  font-size: 12px;
+}
+
+/*============== Start of About Us ====================*/
+
+.about_us--box {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.fa, .fas, .far {
+    font-weight: 900;
+    font-size: 4em;
+}
+
+.about_us--box--image {
+    margin-bottom: 15px;
+}
+
+.about_us--box--description {
+    margin: 0 0 10px;
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+.about_us_class{
+    margin-bottom: 60px;
+}
+/*============== End of About Us ====================*/
+/*============== Start of Navbar ====================*/
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+/*===============Footer ============================*/
